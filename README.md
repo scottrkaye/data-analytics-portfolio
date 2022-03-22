@@ -2,5 +2,5 @@
 This repository contains projects and visualizations created from the Data
 Science & Analytics program with UW-Madison.
 ## SQL
-# Statistics
+### Statistics
 ## Visual Communications
